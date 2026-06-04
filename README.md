@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0242-valid-anagram) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
