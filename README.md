@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -134,12 +136,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
