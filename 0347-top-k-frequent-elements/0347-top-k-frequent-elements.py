@@ -1,19 +1,16 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        hsh={}
+        count={}
         for x in nums:
-            if x not in hsh:
-                hsh[x] = 0
-            hsh[x] += 1
-        lst=[]
-        for i in range(k):
-            l=max(hsh.values())
-            for j in hsh:
-                if hsh[j]==l:
-                    lst.append(j)
-                    break
-            hsh.pop(j)
-        return lst
+            count[x]=count.get(x,0)+1
+        freq=[[] for _ in range(len(nums)+1)]
+        for h,v in count.items():
+            freq[v].append(h)
+        res=[]
+        for i in range(len(freq)-1,0,-1):
+            for j in freq[i]:
+                res.append(j)
+                if len(res)==k:
+                    return res
 
 
-        
