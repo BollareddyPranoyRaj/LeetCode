@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -112,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -161,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -170,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
