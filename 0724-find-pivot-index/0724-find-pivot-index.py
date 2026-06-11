@@ -5,7 +5,7 @@ class Solution:
         for x in nums:
             add+=x
             lst.append(add)
-        if add-nums[0]==0 or len(nums)==0:
+        if add-nums[0]==0 or len(nums)==1:
             return 0
         for i in range(1,len(lst)-1):
             left=lst[i-1]
