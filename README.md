@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
