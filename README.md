@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
