@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Enumeration
