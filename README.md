@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0202-happy-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0680-valid-palindrome-ii) |
