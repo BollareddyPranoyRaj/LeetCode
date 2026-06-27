@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0867-transpose-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Two Pointers
