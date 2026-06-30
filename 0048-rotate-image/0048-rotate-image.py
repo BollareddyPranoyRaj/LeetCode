@@ -3,12 +3,10 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        row=len(nums)
-        col=len(nums[0])
-        ans=[[0]*col for _ in range(row)]
-        for i in range(row):
-            for j in range(col):
-                ans[j][i]=nums[i][j]
-        for i in range(row):
-            ans[i].reverse()
-        nums[:]=ans
+        rows=len(nums)
+        cols=len(nums[0])
+        for i in range(rows):
+            for j in range(i+1,cols):
+                nums[i][j],nums[j][i]=nums[j][i],nums[i][j]
+        for row in nums:
+            row.reverse()
