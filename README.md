@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
