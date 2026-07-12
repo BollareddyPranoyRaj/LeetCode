@@ -60,17 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0735-asteroid-collision) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0402-remove-k-digits) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Math
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1768-merge-strings-alternately) |
