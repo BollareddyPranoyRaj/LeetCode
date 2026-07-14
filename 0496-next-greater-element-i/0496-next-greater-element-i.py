@@ -1,18 +1,17 @@
 class Solution:
+
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        res=[]
+        dct={}
+        st=[]
+        for i in nums2:
+            while st and st[-1]<i:
+                num=st.pop()
+                dct[num]=i
+            st.append(i)
+        lst=[]
         for i in nums1:
-            for j in range(len(nums2)):
-                if i==nums2[j]:
-                    saved=j
-                    break
-            flag=1
-            for k in range(j+1,len(nums2)):
-                if nums2[k]>i:
-                    res.append(nums2[k])
-                    flag=0
-                    break
-                flag=1
-            if flag==1:
-                res.append(-1)
-        return res
+            if i not in dct:
+                lst.append(-1)
+            else:
+                lst.append(dct[i])
+        return lst
