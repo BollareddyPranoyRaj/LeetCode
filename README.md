@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Math
 |  |
