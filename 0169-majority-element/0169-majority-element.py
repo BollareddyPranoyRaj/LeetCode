@@ -1,9 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        hsh={}
-        n=len(nums)
-        for i in nums:
-            hsh[i]=hsh.get(i,0)+1
-            if hsh[i] > (n//2):
-                return i
-        
+        c=0
+        can=0
+        for i in range(len(nums)):
+            if c==0:
+                can=nums[i]
+            if can==nums[i]:
+                c+=1
+            else:
+                c-=1
+        return can
