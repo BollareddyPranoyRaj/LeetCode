@@ -3,13 +3,10 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        l=0
-        r=len(s)-1
-        while l<r:
-            temp=s[l]
-            s[l]=s[r]
-            s[r]=temp
-            l+=1
-            r-=1
-
+        def solve(l,r):
+            if l>=r:
+                return
+            s[l],s[r]=s[r],s[l]
+            solve(l+1,r-1)
+        solve(0,len(s)-1)
         
