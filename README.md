@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
