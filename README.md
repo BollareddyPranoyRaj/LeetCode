@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0724-find-pivot-index) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
