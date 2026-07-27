@@ -12,13 +12,10 @@ class Solution:
             return False
         if not p and q:
             return False
-        if p.val != q.val:
+        if p.val!=q.val:
             return False
-        l = self.isSameTree(p.left, q.left)
-        r = self.isSameTree(p.right, q.right)
+        l=self.isSameTree(p.left,q.left)
+        r=self.isSameTree(p.right,q.right)
         return l and r
-        
-        
-
 
         
