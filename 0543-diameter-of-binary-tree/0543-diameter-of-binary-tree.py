@@ -3,18 +3,18 @@
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
-#         self.right = right    
+#         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.res = 0
-        def helper(root,res):
+        self.maxi=-1
+        def helper(root):
             if not root:
                 return 0
-            l=helper(root.left,self.res)
-            r=helper(root.right,self.res)
-            self.res=max(self.res,l+r)
+            l=helper(root.left)
+            r=helper(root.right)
+            self.maxi=max(self.maxi,l+r)
             return 1+max(l,r)
-        helper(root,self.res)
-        return self.res
+        helper(root)
+        return self.maxi
 
         
