@@ -9,27 +9,17 @@ class Solution:
         dare=dummy
         carry=0
 
-        while l1 and l2:
-            s=l1.val+l2.val+carry
-            dummy.next=ListNode(s%10)
-            carry=s//10
-            l1=l1.next
-            l2=l2.next
-            dummy=dummy.next
-
-        while l2:
-            s = l2.val + carry
-            dummy.next = ListNode(s % 10)
+        while l1 or l2 or carry:
+            x = l1.val if l1 else 0
+            y = l2.val if l2 else 0
+            s = x + y + carry
             carry = s // 10
-            l2 = l2.next
-            dummy = dummy.next
-
-        while l1:
-            s = l1.val + carry
             dummy.next = ListNode(s % 10)
-            carry = s // 10
-            l1 = l1.next
             dummy = dummy.next
+            if l1:
+                l1 = l1.next
+            if l2:
+                l2 = l2.next
         if carry:
             dummy.next=ListNode(1)
         return dare.next
