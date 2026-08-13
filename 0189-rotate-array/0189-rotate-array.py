@@ -5,5 +5,6 @@ class Solution:
         """
         n=len(nums)
         k=k%n
-        nums[:]=nums[n-k:]+nums[:n-k]
+        sec=n-k
+        nums[:]=nums[sec:]+nums[:sec]
         
