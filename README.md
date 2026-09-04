@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
+| [0953-verifying-an-alien-dictionary](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0953-verifying-an-alien-dictionary](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
