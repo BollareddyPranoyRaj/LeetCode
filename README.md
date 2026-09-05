@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0997-find-the-town-judge) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -456,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
