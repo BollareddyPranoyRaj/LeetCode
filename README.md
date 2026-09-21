@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0706-design-hashmap) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -470,4 +474,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
