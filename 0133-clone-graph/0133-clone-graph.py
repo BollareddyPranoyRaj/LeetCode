@@ -1,7 +1,7 @@
 """
 # Definition for a Node.
 class Node:
-    def __init__(self, val = 0, neighbors = None):
+    def __init__(self, val = 0, neighbors = None):t
         self.val = val
         self.neighbors = neighbors if neighbors is not None else []
 """
@@ -12,12 +12,13 @@ class Solution:
         if node is None:
             return None
         clones={}
-        def dfs(current):
-            if current in clones:
-                return clones[current]
-            clone=Node(current.val)
-            clones[current]=clone
-            for neighbor in current.neighbors:
-                clone.neighbors.append(dfs(neighbor))
+        def flow(cur):
+            if cur in clones:
+                return clones[cur]
+            clone=Node(cur.val)
+            clones[cur]=clone
+            for nei in cur.neighbors:
+                clone.neighbors.append(flow(nei))
             return clone
-        return dfs(node)
+        return flow(node)
+        
